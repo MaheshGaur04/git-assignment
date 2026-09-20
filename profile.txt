@@ -1,2 +1,3 @@
 Name: Mahesh Gaur
 City: Noida
+Skills: Python, JavaScript, AiMl and AWS
